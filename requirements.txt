@@ -1,0 +1,2 @@
+tinygrad>=0.4.1
+numpy>=1.19.0
