@@ -1,6 +1,8 @@
 # Tinygrad Demos
 
-This project contains some demos using Tinygrad, a minimalist DL framework. Each demo script is self-contained and has verbose logging to illustrate what's happening at each step.
+This project includes some basic Demos that I made whilst learning the minimalistic DL framework TinyGrad.
+
+ TinyGrad is a very minimal python framework that implements Tensors and Gradient descent for fast & simple DL. In learning the framework I made a couple projects to familiarize myself, I've bundled them here.
 
 ## Installation
 
